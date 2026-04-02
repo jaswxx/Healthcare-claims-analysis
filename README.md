@@ -1,5 +1,7 @@
 Healthcare Claims Trend Analysis 
 
+![Healthcare Dashboard](dashboard.png)
+
 Project Overview
 This project looks at a dataset of healthcare claims to learn more about trends in billing, payments, and claims activity. Key operational and financial trends in the data are highlighted using an interactive Tableau dashboard.
 The dashboard focuses on answering several important questions:
