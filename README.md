@@ -49,13 +49,15 @@ Analysing claim volume offers insight into the demand for medical services and h
 
 Top 10 ICD Codes (Diagnosis Cost Drivers)
 
- 
+  <img width="421" height="357" alt="image" src="https://github.com/user-attachments/assets/cc8cd16c-a1b2-4337-a0c2-7d974404b70f" />
 Insight:
 Certain diagnoses account for a disproportionately high share of total healthcare costs, indicating potential high-risk or high-complexity conditions within the population.
 
 
 Top 10 CPT Codes (Procedure Cost Drivers)
- 
+<img width="443" height="419" alt="image" src="https://github.com/user-attachments/assets/5a761eb0-4a3d-4663-8529-b1b10baa0ea8" />
+
+
 Insight:
 A small number of procedures contribute significantly to overall spending, suggesting that specific treatments or interventions are major cost drivers.
 
